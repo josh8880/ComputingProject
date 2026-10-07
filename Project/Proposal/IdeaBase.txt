@@ -1,0 +1,19 @@
+Sober app
+
+Tacker - progress - how long - info on said day
+Personal login 
+Store NEEDED data - ID, Username, pass 
+Inspirational quotes
+Why people want to be "sober" from said addiction 
+Drop down / TXT on what they are trying to 'quit' 
+
+Personal Details (can be used for averages / statistics)
+DIFFERENT DETAILS CAN BE USED TO LAY DOWN FACTS
+
+ID
+Name
+Age - do older people smoke more
+Gender - what gender typically have more addictions 
+Location (general / city) 
+Education - do people with higher / less educations drink / smoke more 
+Employment 
