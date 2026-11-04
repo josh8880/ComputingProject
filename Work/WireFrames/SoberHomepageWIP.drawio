@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="8hF8Cshke27b5-IrYNl_">
+    <mxGraphModel dx="1414" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="X Days&lt;div&gt;X Hours&lt;/div&gt;&lt;div&gt;X Minutes&lt;/div&gt;&lt;div&gt;X Seconds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="230" x="310" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="-yyBY3n__W8spjqn2vkZ-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Timer + bar that fills progressivly" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Summary | Reasons | Settings" vertex="1">
+          <mxGeometry height="30" width="260" x="300" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Share | Log Urge | Reset | Pledge" vertex="1">
+          <mxGeometry height="60" width="220" x="315" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Milestone" vertex="1">
+          <mxGeometry height="60" width="220" x="315" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Primary reason as to why user is doing this" vertex="1">
+          <mxGeometry height="60" width="220" x="310" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alcohol / Other addicton" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-10" edge="1" parent="1" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="272" y="74" as="sourcePoint" />
+            <mxPoint x="292" y="74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-11" edge="1" parent="1" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="272" y="82" as="sourcePoint" />
+            <mxPoint x="292" y="82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="130" as="sourcePoint" />
+            <mxPoint x="270" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yyBY3n__W8spjqn2vkZ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Burger Menu / Selection" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
